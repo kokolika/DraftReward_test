@@ -1,0 +1,13 @@
+id,displayName,description,rarity
+itm_potion_small,Small Potion,Restore 10 HP at the start of your next combat.,Common
+itm_iron_shield,Iron Shield,Gain +2 DEF permanently.,Common
+itm_leather_boots,Leather Boots,Increase SPEED by 1 for all party members.,Common
+itm_torch,Adventurer's Torch,Reveals the map of the next dungeon area.,Common
+itm_ration,Field Ration,Restores 5 HP to each party member between encounters.,Common
+itm_sharpening_stone,Sharpening Stone,Increase ATK by 1 for the Soldier for the rest of the run.,Common
+itm_mana_crystal,Mana Crystal,Restore 8 MP to all mages after each battle.,Rare
+itm_shadow_cloak,Shadow Cloak,First enemy attack each combat has a 25% chance to miss.,Rare
+itm_battle_horn,Battle Horn,All party members gain +3 ATK on the first round of combat.,Rare
+itm_grimoire_minor,Minor Grimoire,Black Mage spells deal +20% damage for the rest of the run.,Epic
+itm_berserker_seal,Berserker Seal,Soldier deals double damage when below 25% HP.,Epic
+itm_amulet_echo,Amulet of Echo,The first spell cast each combat automatically triggers twice.,Legendary

@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "id": "itm_potion_small",
+      "displayName": "Small Potion",
+      "description": "Restore 10 HP at the start of your next combat.",
+      "rarity": "Common"
+    },
+    {
+      "id": "itm_iron_shield",
+      "displayName": "Iron Shield",
+      "description": "Gain +2 DEF permanently.",
+      "rarity": "Common"
+    },
+    {
+      "id": "itm_leather_boots",
+      "displayName": "Leather Boots",
+      "description": "Increase SPEED by 1 for all party members.",
+      "rarity": "Common"
+    },
+    {
+      "id": "itm_torch",
+      "displayName": "Adventurer's Torch",
+      "description": "Reveals the map of the next dungeon area.",
+      "rarity": "Common"
+    },
+    {
+      "id": "itm_ration",
+      "displayName": "Field Ration",
+      "description": "Restores 5 HP to each party member between encounters.",
+      "rarity": "Common"
+    },
+    {
+      "id": "itm_sharpening_stone",
+      "displayName": "Sharpening Stone",
+      "description": "Increase ATK by 1 for the Soldier for the rest of the run.",
+      "rarity": "Common"
+    },
+    {
+      "id": "itm_mana_crystal",
+      "displayName": "Mana Crystal",
+      "description": "Restore 8 MP to all mages after each battle.",
+      "rarity": "Rare"
+    },
+    {
+      "id": "itm_shadow_cloak",
+      "displayName": "Shadow Cloak",
+      "description": "First enemy attack each combat has a 25% chance to miss.",
+      "rarity": "Rare"
+    },
+    {
+      "id": "itm_battle_horn",
+      "displayName": "Battle Horn",
+      "description": "All party members gain +3 ATK on the first round of combat.",
+      "rarity": "Rare"
+    },
+    {
+      "id": "itm_grimoire_minor",
+      "displayName": "Minor Grimoire",
+      "description": "Black Mage spells deal +20% damage for the rest of the run.",
+      "rarity": "Epic"
+    },
+    {
+      "id": "itm_berserker_seal",
+      "displayName": "Berserker Seal",
+      "description": "Soldier deals double damage when below 25% HP.",
+      "rarity": "Epic"
+    },
+    {
+      "id": "itm_amulet_echo",
+      "displayName": "Amulet of Echo",
+      "description": "The first spell cast each combat automatically triggers twice.",
+      "rarity": "Legendary"
+    }
+  ]
+}
